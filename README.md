@@ -12,6 +12,9 @@ O card contém:
 - **HTML5**  
 - **CSS3**  
 
-## 📂 Como Visualizar  
-1. Clone este repositório ou baixe os arquivos.  
-2. Abra o arquivo `index.html` em qualquer navegador.  
+## 👀 Como Visualizar
+1. Clone o repositório ou baixe os arquivos.  
+2. Acesse diretamente pelo link em qualquer navegador:
+
+```bash
+https://larissasantos2.github.io/box-newsletter/
