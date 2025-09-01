@@ -17,4 +17,4 @@ O card contém:
 2. Acesse diretamente pelo link em qualquer navegador:
 
 ```bash
-https://larissasantos2.github.io/box-newsletter/
+https://larissasantos2.github.io/profile-card/
