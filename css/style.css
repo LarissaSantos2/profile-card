@@ -7,6 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 
+/* estilização do corpo da página */
 body {
   height: 100vh;
   display: flex;
@@ -20,7 +21,7 @@ body {
   overflow: hidden;
 }
 
-/* Criação de três gradientes radiais sobrepostos simulando partículas */
+/* criação de três gradientes radiais sobrepostos simulando partículas */
 body::before {
   content: "";
   position: absolute;
@@ -100,6 +101,7 @@ body > * {
   border: 3px solid #fff;
 }
 
+/* Descrição geral */
 .profile-card .text-data {
   display: flex;
   flex-direction: column;
@@ -127,6 +129,7 @@ body > * {
   text-align: justify;
 }
 
+/* Link - Redes Sociais */
 .profile-card .media-buttons {
   display: flex;
   align-items: center;
